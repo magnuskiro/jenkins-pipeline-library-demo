@@ -11,6 +11,14 @@ Plugins?
 
 Install plugins with dockerfile? 
 
+refs:
+* https://hub.docker.com/r/jenkins/jenkins
+* 
+
+# Pipeline jenkinsfile
+refs:
+* https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+
 # Configure pipeline library
 Add config in jenkins.
 
@@ -35,6 +43,11 @@ Basic pipeline examples in the pipeline library.
 Install instructions
 
 Job definitions.
+
+refs:
+* https://docs.openstack.org/infra/jenkins-job-builder/quick-start.html#use-case-1-test-a-job-definition
+* https://docs.openstack.org/infra/jenkins-job-builder/definition.html#project
+* https://docs.openstack.org/infra/jenkins-job-builder/project_workflow_multibranch.html
 
 # Automate everything
 Self updating with jenkins job builder? 
