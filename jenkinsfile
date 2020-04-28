@@ -1,0 +1,6 @@
+@Library('jenkins-pipeline-library-demo@master') _
+
+echoHelloWorldPipeline{
+    input="test output"
+}
+

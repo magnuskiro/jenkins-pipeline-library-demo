@@ -5,16 +5,26 @@ Demo of jenkins setup with pipeline library, jenkins job builder, and example ap
 
 Run jenkins with docker container. See dockerfile?
 
-Plugins? 
+Plugins?
+* Workflow plugin  
+* Cloud foundry
 
 Install plugins with dockerfile? 
 
 # Configure pipeline library
 Add config in jenkins.
 
+refs: 
+* https://www.jenkins.io/doc/book/pipeline/shared-libraries/
+
 # Jenkinsfile in test application
 
 Add bash script, one liner, for adding jenkinsfile, commit and push in a repo.
+
+# Pipeline steps in docker containers
+
+refs:
+* https://www.jenkins.io/doc/book/pipeline/docker/
 
 # Create Jenkins job for test app
 Basic pipeline examples in the pipeline library.
