@@ -13,7 +13,10 @@ Install plugins with dockerfile?
 
 refs:
 * https://hub.docker.com/r/jenkins/jenkins
-* 
+
+## Source control integration
+We need to defined the external repositories and credentials for our pipelines
+and code repos to be accessible.
 
 ## Pipeline jenkinsfile
 refs:
