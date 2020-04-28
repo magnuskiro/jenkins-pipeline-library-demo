@@ -22,6 +22,8 @@ refs:
 Add bash script, one liner, for adding jenkinsfile, commit and push in a repo.
 
 # Pipeline steps in docker containers
+Remember to set labels on jenkins workers and master node. The lable is needed
+in the pipeline.
 
 refs:
 * https://www.jenkins.io/doc/book/pipeline/docker/
